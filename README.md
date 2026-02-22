@@ -1,16 +1,22 @@
-## Hi
+# Hi, I'm Rohan 👋
 
-<!--
-**posderd/posderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 SDE Aspirant | Java | DSA Focused  
 
-Here are some ideas to get you started:
+Engineering student preparing for Software Development Engineer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Data Structures & Algorithms
+- Backend fundamentals using Spring Boot
+- Building clean, structured REST APIs
+
+---
+
+## 📌 Featured Project
+🔹 **TaskFlow Pro**  
+Role-Based Smart Task Management REST API built using Spring Boot and JPA.  
+Includes filtering, pagination, and layered architecture.
+
+---
+
+## 🚀 Goal
+Secure a strong SDE internship and grow into a production-level engineer.
