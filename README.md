@@ -12,7 +12,7 @@ Currently working on:
 ---
 
 ## 📌 Featured Project
-🔹 **TaskFlow Pro**  
+🔹 **Taskr**  
 Role-Based Smart Task Management REST API built using Spring Boot and JPA.  
 Includes filtering, pagination, and layered architecture.
 
