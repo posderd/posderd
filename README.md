@@ -8,14 +8,6 @@ Currently working on:
 - Data Structures & Algorithms
 - Backend fundamentals using Spring Boot
 - Building clean, structured REST APIs
-
----
-
-## 📌 Featured Project
-🔹 **Taskr**  
-Role-Based Smart Task Management REST API built using Spring Boot and JPA.  
-Includes filtering, pagination, and layered architecture.
-
 ---
 
 ## 🚀 Goal
